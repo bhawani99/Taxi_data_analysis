@@ -1,4 +1,4 @@
-# Taxi_data_analysis
+# New York Taxi Data Analysis
 Project description:
 Title: New York Taxi Data Analysis - Uncovering Insights Before and After COVID-19
 Objective: Performed Exploratory Data Analysis to gain meaningful insights between pre-February 2020 and post-COVID era in June 2020.
